@@ -1,0 +1,10 @@
+{
+  "name": "Snaproom",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://snaproom.herokuapp.com/api"
+    }
+  ]
+}
